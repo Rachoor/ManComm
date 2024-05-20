@@ -1,0 +1,11 @@
+{
+  "name": "mancomm-backend",
+  "version": "1.0.0",
+  "description": "API to parse XML dat to JSON and store in S3 buckets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RPK",
+  "license": "ISC"
+}
